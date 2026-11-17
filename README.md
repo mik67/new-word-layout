@@ -4,3 +4,6 @@ Podklady ke Knowledge Share (18. 11. 2026) o novém Word toolkitu v Business Cen
 
 - [speaker-script.md](speaker-script.md) – scénář přednášky po slidech (EN + CS)
 - [demo-navod-cs.md](demo-navod-cs.md) – návod ke všem třem demům (česky)
+- [New_Word_Toolkit_in_Wave_2.pptx](New_Word_Toolkit_in_Wave_2.pptx) – prezentace (16 slidů, EN poznámky pro řečníka)
+- [speaker-guide-casual.md](speaker-guide-casual.md) – stručný průvodce řečníka k volnější verzi prezentace (15 slidů, EN + CS)
+- [vysvetleni-slidu-cs.md](vysvetleni-slidu-cs.md) – vysvětlení jednotlivých slidů volnější verze (česky, jen pro řečníka)
